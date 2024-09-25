@@ -1,1 +1,1 @@
-# End-t-End-Machine-Learning-project-with-MLflow
+# End-to-End-Machine-Learning-project-with-MLflow
